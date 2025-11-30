@@ -31,8 +31,11 @@ O projeto utiliza os seguintes pacotes R (instale caso não tenha):
 install.packages(c(
   "dplyr",
   "ggplot2",
-  "readr",
-  "purrr",
+  "scales",
+  "reshape2",
+  "patchwork",
+  "stringr",
+  "hypergeo",
   "testthat"
 ))
 ```
